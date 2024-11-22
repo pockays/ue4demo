@@ -1,6 +1,3 @@
-# Action Roguelike Game (Course Project)
-
-This project is part of the **[Professional Game Development in C++ and Unreal Engine](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github)** Course where we build this project step-by-step.
 
 ![Course Header](https://www.tomlooman.com/wp-content/uploads/2021/09/course_heroheader-1.jpg)
 
