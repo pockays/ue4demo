@@ -1,11 +1,3 @@
-**Current Engine Version: 4.27**
-
-**Use Branch "Lecture29-FinishedProject" for Course-only Code. (Made with UE 4.25)** ('Main branch' includes additional polish and features)
-
-![GitHub Branch Selection Info](https://www.tomlooman.com/wp-content/uploads/2021/01/github_branchesinfo.jpg)
-
-![Combat Example Still](https://www.tomlooman.com/wp-content/uploads/2021/09/ue_course_herobanner_split_small.jpg)
-
 # Project Features
 - Third-person Action Character Movement
 - **Action System** (similar to Gameplay Ability System in design)
